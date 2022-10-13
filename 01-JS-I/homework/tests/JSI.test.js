@@ -31,7 +31,7 @@ const {
       expect(nuevaResta).toBe(true);
     });
   });
-  
+  // prueba para test
   describe('nuevaMultiplicacion', function() {
     it('Deberia ser un booleano', function() {
       expect(nuevaMultiplicacion).toBe(true);
